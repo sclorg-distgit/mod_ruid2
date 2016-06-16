@@ -22,7 +22,7 @@
 Summary: Run all httpd process under user's access right.
 Name: %{?scl:%sub_prefix}mod_ruid2
 Version: 0.9.8
-Release: 4%{?dist}
+Release: 5%{?dist}
 Group: System Environment/Daemons
 URL: http://sourceforge.net/projects/mod-ruid/
 Source0: http://downloads.sourceforge.net/project/mod-ruid/mod_ruid2/mod_ruid2-%{version}.tar.gz
