@@ -110,6 +110,9 @@ install -m 644 %{SOURCE2} %{buildroot}%{_httpd_modconfdir}
 
 
 %changelog
+* Thu Jun 16 2016 Jaroslaw Polok <jaroslaw.polok@cern.ch> 0.9.8-5
+- bump release for httpd24 collection update rebuild.
+
 * Wed Feb 24 2016 Jaroslaw Polok <jaroslaw.polok@cern.ch> 0.9.8-4
 - repackage as Software Collection
 
